@@ -2,7 +2,7 @@ html {
 box-sizing: border-box;
 height: 100%;
 }
-
+ 
 *,
 *::before,
 *::after {
@@ -52,6 +52,7 @@ text-shadow: 0 0 5px #01579b;
 #florida {
 background-color: #03a9f4;
 }
+
 
 #paris {
 background-color: #d32f2f;
